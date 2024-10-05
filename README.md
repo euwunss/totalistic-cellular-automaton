@@ -99,4 +99,4 @@ _________________________________________________________________
 
 ___
 ### Acknowledgment
-This project was completed as part of the CS 211 course at University of Illinois Chicago, under the guidance of Professor Scott Reckinger. The initial project idea and requirements were provided as part of the course assignment.
+This project was completed as part of the CS 211 course at University of Illinois Chicago, under the guidance of Professors Scott Reckinger and David Hayes. The initial project idea and requirements were provided as part of the course assignment.
